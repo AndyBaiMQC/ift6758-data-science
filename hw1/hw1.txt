@@ -1,4 +1,9 @@
 Wrangling and Visualization: 4, 9, 12
 Function Fitting: 1, 8, 11
 
+Pt1
 https://colab.research.google.com/drive/1VggM4BWJl3d6oSPjK6gUdhNl00QdDQch
+Pt2
+https://colab.research.google.com/drive/1fv2w56-zsYJ7fP15ahOpXD5a7kjcf23c
+
+https://colab.research.google.com/drive/1VggM4BWJl3d6oSPjK6gUdhNl00QdDQch#scrollTo=QeeZiEA2ta6I
